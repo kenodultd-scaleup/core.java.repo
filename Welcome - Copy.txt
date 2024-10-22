@@ -2,3 +2,6 @@ This is a welcome test on the git repo
 
 
 This is a command line test
+
+
+This ia n added 3rd line
