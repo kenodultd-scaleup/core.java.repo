@@ -1,3 +1,5 @@
 This is a welcome test on the git repo
 
-I have now added a new branch called London01 for test 
+I have now added a new branch called London01 for test
+
+This is a new test on the Intellij app
