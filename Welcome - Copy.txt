@@ -1,1 +1,4 @@
 This is a welcome test on the git repo
+
+
+This is a command line test
