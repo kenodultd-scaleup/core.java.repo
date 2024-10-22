@@ -5,3 +5,5 @@ This is a command line test
 
 
 This ia n added 3rd line
+
+This is a 4th line for intellij thanks
