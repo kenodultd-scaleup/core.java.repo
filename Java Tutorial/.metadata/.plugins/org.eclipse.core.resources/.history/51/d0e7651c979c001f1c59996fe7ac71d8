@@ -1,0 +1,13 @@
+package methods;
+
+public class Object {
+
+	public static void main(String[] args){
+		
+		ObjectTest newtest = "Bum";
+		newtest = 20;
+		newtest = true;
+	}
+
+	
+}

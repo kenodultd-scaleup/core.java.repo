@@ -1,0 +1,8 @@
+package methods;
+
+public class Revision {
+
+	public void Rev01 () {
+		System.out.println("This is a new method revision test for the smart");
+	}
+}

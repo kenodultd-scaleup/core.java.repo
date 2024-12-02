@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;DataSet&apos;&#x0D;&#x0A;- Original project: &apos;DataSet&apos;&#x0D;&#x0A;- Original element: &apos;DataSet/src/non.primitive.data.type&apos;" description="Delete element" element1="/src&lt;non.primitive.data.type" element2="/src&lt;non.primitive.data" element3="/src&lt;non.primitive" element4="/src&lt;non" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1730299010059" subPackages="false" version="1.0"/>
+</session>
