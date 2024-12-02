@@ -1,0 +1,8 @@
+This is a new check in 
+
+As the IntelliJ is not working I am doing a new test on the local command line
+
+I am editing this again on Intellij to run the test
+
+
+And Ricky Rose
