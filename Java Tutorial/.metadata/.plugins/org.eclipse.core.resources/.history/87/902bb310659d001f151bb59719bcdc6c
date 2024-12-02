@@ -1,0 +1,17 @@
+package methods;
+
+public class Revision {
+
+	public void Rev01() {
+		System.out.println("This is a new method revision test for the smart");
+	}
+	
+	public void Rev02(String RevName, int RevNo, double RevChap, boolean RevCorrect) {
+		System.out.println("This is a smarted mthd test " + RevName + " With the age number of 3" + RevNo );
+	}
+	
+	public String Rev03() {
+		System.out.println("This is a new method revision test for the smart");
+		return "This is a new method revision test for the smart";
+	}
+}
